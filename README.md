@@ -1,6 +1,6 @@
 # Python Training Material
 
-This directory tracks and shares our learning material in python. Each lesson has three rounds.  The first where all cell input is included (just press Control+Enter) working towards Round 3 where no cell input is included.  
+This directory tracks and shares our learning material in python. Each lesson has three rounds.  The first where all cell input is included (just press Control+Enter or Shift+Enter) working towards Round 3 where no cell input is included.  
 
 ### Folder Structure: 
 1. It begins with the basics of python. The goal is to understand the building blocks of python pandas. 
